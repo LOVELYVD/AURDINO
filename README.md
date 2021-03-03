@@ -1,4 +1,4 @@
-# AURDINO:In our Project, we have used a microcontroller to control whole the process of system that is ARDUINO. Arduino is an open-source hardware and very useful for project developments.
+# AURDINO:I have used a microcontroller to control whole the process of system . Arduino is an open-source hardware and very useful for project developments.
 
 
 LINE FOLLOWER ROBOT : Sense and follows a black line.
@@ -18,12 +18,4 @@ L293D is a motor driver IC which has two channels for driving two motors. L293D 
 
 
 
-            Input     	                 Output                    Movement Of Robot
-            
-Left Sensor	    Right Sensor	 Left Motor	  Right Motor
-LS	              RS	          LM1	LM2   	RM1	RM2	
-
-0	                0	             0	 0	     0	 0	                   Stop
-0	                1	             1	 0	     0	 0	                   Turn Right
-1	                0	             0	 0	     1	 0	                   Turn Left
-1	                1	             1	 0	     1	 0	                   Forward
+         
