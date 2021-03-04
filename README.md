@@ -1,7 +1,10 @@
-# AURDINO:I have used a microcontroller to control whole the process of system . Arduino is an open-source hardware and very useful for project developments.
+# AURDINO
 
 
 LINE FOLLOWER ROBOT : Sense and follows a black line.
+
+:I have used a microcontroller to control whole the process of system . Arduino is an open-source hardware and very useful for project developments.
+
 
 When light falls on a white surface it is almost fully reflected . When light falls on a  black surface light is completely absorbed. This behavior of light is used in building a line follower robot.
 
